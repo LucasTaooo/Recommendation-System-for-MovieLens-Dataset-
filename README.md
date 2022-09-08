@@ -1,12 +1,11 @@
-  # DSGA1004 - BIG DATA
-## Final project
+## Recommendation System for MovieLens Dataset
 
 Contributors: Lucas Tao (ct1942), Billy Sun (ds5749), Cecilia Wu (czw206)
 
 
 ## Files in this Repository 
 
-`1004_Final_Project.pdf` Final Report 
+`Final_report.pdf` Final Report 
 
 `ALS.py` ALS Model
 
