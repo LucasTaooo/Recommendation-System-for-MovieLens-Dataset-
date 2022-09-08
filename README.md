@@ -1,6 +1,3 @@
-  # DSGA1004 - BIG DATA
-## Final project
-
 Contributors: Lucas Tao (ct1942), Billy Sun (ds5749), Cecilia Wu (czw206)
 
 
